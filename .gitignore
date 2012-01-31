@@ -1,3 +1,4 @@
 *.scpt
 *.applescript
 .DS_Store
+*.tar.gz

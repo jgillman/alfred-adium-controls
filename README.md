@@ -1,7 +1,7 @@
 Adium Controls for Alfred
 ============
 
-A set of AppleScripts so you can set your chat status from [Alfred App](http://alfredapp.com/). You will need Alfred and the Powerpack to use this.
+A set of AppleScripts so you can set your chat status from [Alfred App](http://alfredapp.com/). Remember, you will need Alfred and the [Powerpack](http://www.alfredapp.com/powerpack/) to use this.
 
 Installation
 ----------------
