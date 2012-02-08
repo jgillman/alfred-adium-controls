@@ -27,6 +27,13 @@ Once installed with Alfred you can run the following commands
 	away my custom message  ::  Set status to "my custom message" and start screensaver
 
 
+Screenshots
+----------------
+![Go away](http://i.imgur.com/4jIqR.png)
+![Come back](http://i.imgur.com/DJFrw.png)
+![Log on](http://i.imgur.com/Kbvgc.png)
+
+
 Download
 ----------------
 [Adium Controls](https://github.com/jgillman/alfred-adium-controls/downloads)
