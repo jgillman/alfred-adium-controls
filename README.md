@@ -7,10 +7,11 @@ Installation
 ----------------
 
 To install Adium Controls for Alfred double click on each of the extension files:
-- Adium Controls - Custom Away.alfredextension
-- Adium Controls - Go Offline.alfredextension
-- Adium Controls - Go Online.alfredextension
-- Adium Controls - Set Available.alfredextension
+
+* Adium Controls - Custom Away.alfredextension
+* Adium Controls - Go Offline.alfredextension
+* Adium Controls - Go Online.alfredextension
+* Adium Controls - Set Available.alfredextension
 
 How to use
 ----------------
