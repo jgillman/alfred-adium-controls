@@ -47,6 +47,7 @@ Download
 ### 1.1.0 - February 27, 2012###
 - Added "do not diturb", "on the phone", and invisible settings
 - Refactored code
+
 ### 1.0.0 - January 31, 2012###
 - Inital Release
 
