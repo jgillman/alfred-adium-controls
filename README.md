@@ -7,10 +7,11 @@ Installation
 ----------------
 
 To install Adium Controls for Alfred double click on each of the extension files:
-- Adium Controls - Custom Away.alfredextension
-- Adium Controls - Go Offline.alfredextension
-- Adium Controls - Go Online.alfredextension
-- Adium Controls - Set Available.alfredextension
+
+* Adium Controls - Custom Away.alfredextension
+* Adium Controls - Go Offline.alfredextension
+* Adium Controls - Go Online.alfredextension
+* Adium Controls - Set Available.alfredextension
 
 How to use
 ----------------
@@ -25,6 +26,13 @@ Once installed with Alfred you can run the following commands
 	away m                  ::  Set status to "meeting" and start screensaver
 	away b                  ::  Set status to "brb" and start screensaver
 	away my custom message  ::  Set status to "my custom message" and start screensaver
+
+
+Screenshots
+----------------
+![Go away](http://i.imgur.com/4jIqR.png)
+![Come back](http://i.imgur.com/DJFrw.png)
+![Log on](http://i.imgur.com/Kbvgc.png)
 
 
 Download
