@@ -24,7 +24,10 @@ Once installed with Alfred you can run the following commands
 	away                    ::  Set status to "Away"
 	away l                  ::  Set status to "lunch" and start screensaver
 	away m                  ::  Set status to "meeting" and start screensaver
+	away p                  ::  Set status to "on the phone" and start screen saver
+	away d                  ::  Set status to "do no disturb" and start screen saver
 	away b                  ::  Set status to "brb" and start screensaver
+	away i                  ::  Set status to invisible
 	away my custom message  ::  Set status to "my custom message" and start screensaver
 
 
@@ -41,6 +44,9 @@ Download
 
 
 ## Version History ##
+### 1.1.0 - February 27, 2012###
+- Added "do not diturb", "on the phone", and invisible settings
+- Refactored code
 ### 1.0.0 - January 31, 2012###
 - Inital Release
 
